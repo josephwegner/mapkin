@@ -1,0 +1,27 @@
+{
+  "name": "Mapkin",
+  "version": "0.0.0",
+  "description": "Easy-to-use cross-engine javascript map library",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josephwegner/mapkin.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "js",
+    "open",
+    "street",
+    "maps"
+  ],
+  "author": "Joe Wegner",
+  "bugs": {
+    "url": "https://github.com/josephwegner/mapkin/issues"
+  },
+  "homepage": "https://github.com/josephwegner/mapkin",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-include": "^0.2.2",
+    "gulp-coffee": "^1.4.3"
+  }
+}
